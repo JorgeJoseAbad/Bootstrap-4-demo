@@ -1,10 +1,10 @@
 
 
-###Only front-end Bootstrap 4 demo work.
+### Only front-end Bootstrap 4 demo work.
 
-##Iconic fonts as icones.
+## Iconic fonts as icones.
 
-##There is 5 pages:
+## There is 5 pages:
 
 * An index page simulating an art gallery.
 
