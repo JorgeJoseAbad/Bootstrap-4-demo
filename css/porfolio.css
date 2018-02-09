@@ -1,0 +1,69 @@
+#masthead{
+  background-color: #f8f9fa;
+}
+.mainmenu{
+  margin-top: 10px;
+}
+
+
+
+.page-head{
+  background-color:rgb(237, 86, 75);
+  text-align: right;
+}
+
+.page-head h3, .page-head p{
+  color: #e4dede;
+
+}
+
+article, #secondary{
+  margin-top: 1em;
+}
+
+article p{
+  text-align: justify;
+}
+
+.widget-title{
+  font-style: normal;
+  font-family: sans-serif;
+  font-weight: bold;
+
+}
+
+aside{
+  border-top: 2px solid green;
+}
+
+.cat-item{
+  margin-top: 5px;
+  text-align: left;
+  font-size: 2em;
+}
+
+/* Bottom class*/
+.bottom{
+  border-top: 0.2em solid red;
+  background-color: rgba(86,84,84,1);
+}
+
+.bottitle{
+  color: white;
+}
+
+.bottom li{
+  border-bottom: 0.01em solid grey;
+}
+
+.bottom li, .bottom p{
+  font-size: 1em;
+  color: grey;
+  margin-top: 0.1em;
+}
+
+/*  footer */
+footer{
+  color: white;
+  background-color: #262626;
+}

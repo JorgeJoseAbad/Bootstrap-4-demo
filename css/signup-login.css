@@ -1,0 +1,42 @@
+/*For signup and login html
+-----------------------------------------*/
+body{
+  background-color: rgb(246,159,20);
+}
+
+#h1-signup{
+  margin-top:40px;
+  text-align: center;
+}
+
+.image-signup{
+  background-image:url("../images/dali1.jpg");
+  background-position: center;
+  background-size: contain;
+  margin: 0 auto;
+  text-align: center;
+  font-size-adjust: auto;
+  width: 400px;
+  height: 300px;
+}
+
+.text-image-signup{
+  font-size: 4em;
+  padding-top:30px;
+  display: block;
+  color: red;
+}
+
+.signup-form, .login-form{
+
+  padding-top:30px;
+  margin: 0 auto;
+  align: center;
+  width: 600px;
+}
+
+.form-group > label{
+  font-family: fantasy;
+  font-weight: bold;
+  font-size: 30px;
+}
